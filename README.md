@@ -1,11 +1,10 @@
 
 <p align="center">As palavras dedicação e esforço me definem. Futuro Engenheiro de software, apaixonado por resolver problemas através da tecnologia.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
+<div style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=frank-cardoso&theme=dark&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=frank-cardoso&show_icons=true&theme=dark" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-cardoso&hide_progress=false" />
-  
  </div>
  
  &nbsp;
