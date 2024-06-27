@@ -1,6 +1,6 @@
 <h2 align="center">As palavras dedicação e esforço me definem. Futuro Engenheiro de software, apaixonado por resolver problemas através da tecnologia.</h2>&nbsp;
 
-<table>
+<table style="border: none;">
  <td width=50%>
 <img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-cardoso&hide_progress=false" />
  </td>
