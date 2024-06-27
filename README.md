@@ -1,14 +1,18 @@
+<h2 align="center">As palavras dedicação e esforço me definem. Futuro Engenheiro de software, apaixonado por resolver problemas através da tecnologia.</h2>&nbsp;
 
-<p align="center">As palavras dedicação e esforço me definem. Futuro Engenheiro de software, apaixonado por resolver problemas através da tecnologia.</p>&nbsp;
+<table>
+ <td width=50%>
+<img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-cardoso&hide_progress=false" />
+ </td>
+<td width=50%>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=frank-cardoso&theme=dark&mode=weekly" />
+ <img src="https://github-readme-stats.vercel.app/api?username=frank-cardoso&show_icons=true&theme=dark" />
+</td>
+</table>
 
-<div style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=frank-cardoso&theme=dark&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=frank-cardoso&show_icons=true&theme=dark" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-cardoso&hide_progress=false" />
- </div>
- 
- &nbsp;
- &nbsp;
+
+
+
 
 ## My Skills
 
