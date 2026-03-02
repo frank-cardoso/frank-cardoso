@@ -1,14 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Frank</h1>
-<h3 align="center">Futuro Engenheiro de Software apaixonado por resolver problemas com tecnologia 🚀</h3>
-
-<table style="border: none;">
- <td width=50%>
-<img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=frank-cardoso&hide_progress=false&theme=midnight-purple" />
- </td>
-<td width=50%>
- <img src="https://github-readme-stats.vercel.app/api?username=frank-cardoso&show_icons=true&theme=midnight-purple" />
-</td>
-</table>
+<h3 align="center">Apaixonado por resolver problemas com tecnologia 🚀</h3>
 
 ## 🚀 Tecnologias e Ferramentas
 ### Linguagens e Frameworks:
